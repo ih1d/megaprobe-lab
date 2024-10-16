@@ -5,21 +5,10 @@ Category: People
 Tags: bioinformatics, social sciences
 
 # Dharsy D. Rodriguez Velazquez
-<<<<<<< HEAD
-## Contact info:
-e-mail
-
-  - dharsy.rodriguez@upr.edu
-
-LinkedIn
-
- - www.linkedin.com/in/dharsy-rodriguez
-=======
 
 ## Contact info:
 - e-mail- <dharsy.rodriguez@upr.edu>
 - LinkedIn- <www.linkedin.com/in/dharsy-rodriguez>
->>>>>>> 3be939a9f6d1cc1d3e4f9152ca403cf93c558dfb
 
 ## Bio
 
@@ -27,11 +16,7 @@ Social Sciences student-researcher at Computer Sciences Department. IDGeNe stude
 
 ## Research Goals
 
-<<<<<<< HEAD
-To combine social sciences, public health (Gentics Epidemiology) with cutting-edge biological research.
-=======
 To combine social sciences, public health (Genetics Epidemiology), Sociogenomics in order to ubderstand societal problems.
->>>>>>> 3be939a9f6d1cc1d3e4f9152ca403cf93c558dfb
 
 ## Research Abstract
 
@@ -57,23 +42,6 @@ bt.3192
  -Mentoring: Dr. Adriana Baez
  --Mentor-Mentee_Align_Expectations (WORD)
  -Laboratory Work: We prepared a work plan for the summer:
-<<<<<<< HEAD
- -- Cancer data
- -- Binarization
- -- Single cell information
- -- Request account for Boqueron cluster
- -- We discussed the rules of the laboratoy:MegaProbe
-
-### June 12-16, 2023
- -Created Github, Anaconda account
- -Workshop: Bioinformatic III
- -Educational Talk: Genomics and Society (Dr. Gerardo Arroyo: La Genómica y su impacto en las Ciencias Forenses)
- -Meet the Mentors Dr. Tugrul Giray
- -Workshop: Software Carpentry
- -Educationall Talk: Impostor Syndrome
- -Workshop: Software Carpentry
- -Genomic Seminar:Evolution and development of patterns in butterfly wings
-=======
     +Cancer data
     +Binarization
     +Single cell information
@@ -89,14 +57,11 @@ bt.3192
  +Educationall Talk: Impostor Syndrome
  +Workshop: Software Carpentry
  +Genomic Seminar:Evolution and development of patterns in butterfly wings
->>>>>>> 3be939a9f6d1cc1d3e4f9152ca403cf93c558dfb
  -Workshop:Ethics
  -Movie Night: Justice, Equity, Diversity and Inclusion 
  -Educational Talk: Implicit Bias
  -Techniques and Journal Club- T. Giray
  -Deliverable: One Page Research Summary
-<<<<<<< HEAD
-=======
  
   /home/drodriguez1
   wget https://repo.anaconda.com/miniconda/Miniconda3-py311_23.5.2-0-Linux-x86_64.sh
@@ -134,7 +99,6 @@ To activate this environment, use
   241          at uk.ac.babraham.FastQC.FastQCApplication.<init>(FastQCApplicati                                                 on.java:63)
   242          at uk.ac.babraham.FastQC.FastQCApplication.main(FastQCApplication  
 
->>>>>>> 3be939a9f6d1cc1d3e4f9152ca403cf93c558dfb
   
 ### June 19-24, 2023
  -Educational Talk: Genomics and Society Dr. A. Santiago-Cornier Genomic Medicine
@@ -154,8 +118,6 @@ To activate this environment, use
 ### June 26-30, 2023
  -Laboratory Work: TCGA atlas, GRCh38, review Genetics concepts,GEO data, Array Express data, normal tissue and tumour core, R1_R2_Index, WingSCP, pipeline.
  
-<<<<<<< HEAD
-=======
  
 (base) drodriguez1@hulk:~$ ~ wget-ci~/archivo-2
  (base) drodriguez1@hulk:~$ wget ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR116/ERR11657684/scrEXT001_hg19_S9_L008_I1_001.fastq.gz    
@@ -195,7 +157,6 @@ scp boqueron.hpcf.upr.edu:/work/humberto/drodriguez1/align_data.
 nano align_data
 
 
->>>>>>> 3be939a9f6d1cc1d3e4f9152ca403cf93c558dfb
 ![boq 1](C:\Users\dhars\OneDrive\Documents\boq 1.png)
  
  -Meet the Mentors: Dr. Imilce Rodríguez Hernández
@@ -218,8 +179,6 @@ nano align_data
  -Deliverable: First Draft Personal Statemen+IDP
  -Journal Club: Carmen Cadilla
  -IQ Hackathon (Engine 4)
-<<<<<<< HEAD
-=======
 
 screen
 screen -ls
@@ -290,7 +249,6 @@ chr1    HAVANA  exon    30267   30667   .       +       .       gene_id "ENSG000
 chr1    HAVANA  exon    30976   31109   .       +       .       gene_id "ENSG00000243485"; gene_version "5"; transcript_id "ENST00000469289"; transcript_version "1"; gene_type "lncRNA"; gene_name "MIR1302-2HG"; transcript_type "lncRNA"; transcript_name "MIR1302-2HG-201"; exon_number 2; exon_id "ENSE00001890064"; exon_version "1"; level 2; transcript_support_level "5"; hgnc_id "HGNC:52482"; tag "not_best_in_genome_evidence"; tag "basic"; havana_gene "OTTHUMG00000000959.2"; havana_transcript "OTTHUMT00000002841.2";
 chr1    HAVANA  gene    34554   36081   .       -       .       gene_id "ENSG00000237613"; gene_version "2"; gene_type "lncRNA"; genes.gtf
 
->>>>>>> 3be939a9f6d1cc1d3e4f9152ca403cf93c558dfb
  
 ### July 10-14
  -Laboratory: Hulk account to work on Rsudio local, Alevin Fry Data (Rscript install), Seurat objetcts tutorial, find the diffrence between normal and tissue core. Download URLs list to match the new table of samples with the columns, identify using rows. Created new directory, we installed miniconda in Hulk. 
@@ -305,15 +263,12 @@ chr1    HAVANA  gene    34554   36081   .       -       .       gene_id "ENSG000
  -Galaxy Workshop “Metagenomics”
  -Journal Club:Dr. Alfredo Ghezzi
 
-<<<<<<< HEAD
-=======
 (base) drodriguez1@hulk:~/pbmc1k_quant$ ls
 af_map  af_quant  simpleaf_quant_log.json
 (base) drodriguez1@hulk:~/pbmc1k_quant$
 
 nano align_data
 
->>>>>>> 3be939a9f6d1cc1d3e4f9152ca403cf93c558dfb
 ### July 17-21, 2023
  -Meet the Mentors Dr. Josue Pérez Santiago
  -Worskhop: How to prepare an abstract (J García-Arrarás) 
@@ -321,12 +276,7 @@ nano align_data
  -Workshop: Statistics in Biology (ME Pérez-Hernández) 
  -Journal Club: Josue Pérez Santiago
  -Deliverable: Updated Research Summary (w/ Lit review + Methods)
-<<<<<<< HEAD
-
-
-
- 
-=======
+<<<<<<
  
  
  
@@ -884,4 +834,3 @@ TGTCCTATCTGATCGACCCGCACACGCCGAAAAACGACGGCACCTTTCGGCCGATCGAGGTCATCGCCAAGCCCGGCACC
 
 ### May 27-31, 2024:
  
->>>>>>> 3be939a9f6d1cc1d3e4f9152ca403cf93c558dfb
